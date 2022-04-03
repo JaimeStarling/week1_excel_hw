@@ -1,2 +1,2 @@
-# week1_excel_hw
+# week1_various
 Week 1 Bootcamp HW
